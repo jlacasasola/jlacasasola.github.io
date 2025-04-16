@@ -1,2 +1,2 @@
 jlacasasola_es
-Curriculum Web en Català
+Curriculum Web en Castellà
